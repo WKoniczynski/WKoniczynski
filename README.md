@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WKoniczynski
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on tasks to practise SQL.
+- 👀 I’m interested in Investing
+- 🌱 I’m currently option trading
 - 📫 How to reach me: www.linkedin.com/in/wkoniczynski
 
 <!---
